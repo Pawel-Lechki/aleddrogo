@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "AD2JSCS2G+v82UM+Yo6SdOOaRnr3jPRPZkH+YStP+7A=",
+  "Source": "Aleddrogo.Server",
+  "BasePath": "_content/Aleddrogo.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\dotnet\\Aleddrogo\\aleddrogo.client\\aleddrogo.client.esproj",
+      "Version": 2,
+      "Source": "aleddrogo.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
